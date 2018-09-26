@@ -3,8 +3,7 @@
 
     python3 环境
     pip install PIL
-    没了。
+    没了
 
-### 会自动生成hero文件夹的。
-    
+### 会自动生成hero文件夹的
 
